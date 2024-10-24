@@ -14,3 +14,4 @@ routes.get("/", (req, res) => {
 routes.use("/usuarios", usuariosRoutes);
 
 export default routes;
+
